@@ -74,11 +74,24 @@
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ProfMPPDias&theme=discord_old_blurple) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ProfMPPDias&theme=discord_old_blurple&utcOffset=8) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ProfMPPDias&theme=discord_old_blurple) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ProfMPPDias&theme=discord_old_blurple) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ProfMPPDias&theme=discord_old_blurple) |
 |:---:|
 
+### My Workspace
+<p align='center'>
+  <img src="https://img.shields.io/badge/archlinux-2025.03.01-%230071C5.svg?&style=for-the-badge&logo=archlinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/intel-core%20i5%2012th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intel-hd%20graphics-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+</p>
 
 <!--
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 https://github-profile-summary-cards.vercel.app/demo.html
 -->
+<br/>
+<p align='center'>
+  <img src="https://i.postimg.cc/4xQLZ11Z/Banner-para-Linkedin-Tecnologia-em-Preto-1.jpg" />
+</p>
+</br>
+
 <details align="left">
   <summary><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22></summary> 
  
