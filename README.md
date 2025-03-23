@@ -1,5 +1,5 @@
 <a href="https://claudiomendonca.eng.br"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1451da&height=120&section=header"/></a>
-<a href="https://claudiomendonca.eng.br"><img align="right" alt="Developer vector created by storyset - www.freepik.com" height="330" src="https://png.pngtree.com/png-clipart/20230411/original/pngtree-artificial-intelligence-blue-illustration-png-image_9047265.png"></a>
+<a href="https://claudiomendonca.eng.br"><img align="right" alt="Developer vector created by storyset - www.freepik.com" height="330" src="https://static.vecteezy.com/system/resources/previews/046/908/973/non_2x/highly-searchable-robot-head-with-brain-on-transparent-background-free-png.png"></a>
 
 <h1>
     <span>I'm Marcos Dias</span>
