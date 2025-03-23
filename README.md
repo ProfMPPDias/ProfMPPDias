@@ -17,7 +17,7 @@
 
 - 💬 Feel free to ask me about productivity and organization in the world of information    
 
-- ⚡ Fun fact: Docker – making developers' lives easier since day one! </p>
+- ⚡ Fun fact: Artificial intelligence is a tool, not a destination. </p>
 
  
 <br/>  
