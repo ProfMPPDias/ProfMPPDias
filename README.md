@@ -1,5 +1,6 @@
 <a href="https://claudiomendonca.eng.br"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1451da&height=120&section=header"/></a>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+the+jungle!;+Feel+free+to+explore+my+universe+of+creations.)](https://git.io/typing-svg)
+<br/>
 <h1>
     <span>I'm Marcos Dias</span>
 </h1>
