@@ -86,11 +86,6 @@
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 https://github-profile-summary-cards.vercel.app/demo.html
 -->
-<br/>
-<p align='center'>
-  <img src="https://i.postimg.cc/4xQLZ11Z/Banner-para-Linkedin-Tecnologia-em-Preto-1.jpg" />
-</p>
-</br>
 
 <details align="left">
   <summary><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22></summary> 
@@ -100,6 +95,8 @@ https://github-profile-summary-cards.vercel.app/demo.html
   - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
   - GitHub Stats by <a href="https://profilinator.rishav.dev/">Generated using</a>
   - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
  
   <div align="right">Made with ❤️ by <a href="https://github.com/ProfMPPDias/MarcosDias_Profile">Marcos Dias</a>.</div>
 
