@@ -44,12 +44,6 @@
 </a>
 </div>  
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ProfMPPDias/ProfMPPDias/output/pacman-contribution-graph-dark.svg">
-</picture>
-
-###
-
 <br/>  
 
 ## My Skill Set  
@@ -68,6 +62,14 @@
 </td></tr></table>   
 
 <br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ProfMPPDias/ProfMPPDias/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ProfMPPDias/ProfMPPDias/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ProfMPPDias/ProfMPPDias/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 ## Profile in Courses 
 </a>  
