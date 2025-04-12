@@ -45,14 +45,16 @@
 </div>  
 
 <br/>
-## My Skill Set 
-<div align="center">
+<br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ProfMPPDias/ProfMPPDias/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ProfMPPDias/ProfMPPDias/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ProfMPPDias/ProfMPPDias/output/pacman-contribution-graph.svg">
 </picture>
-</div> 
+
+<br/>
+<br/>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
