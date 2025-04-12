@@ -43,7 +43,14 @@
 <img src=https://img.shields.io/badge/facebook-%231E77B5.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 </div>  
-  
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ProfMPPDias/ProfMPPDias/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ProfMPPDias/ProfMPPDias/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ProfMPPDias/ProfMPPDias/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 <br/>  
 
