@@ -45,7 +45,7 @@
 </div>  
 
 <br/>
-## Progress Projects:
+## My Skill Set 
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ProfMPPDias/ProfMPPDias/output/pacman-contribution-graph-dark.svg">
