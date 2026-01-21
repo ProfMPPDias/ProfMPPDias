@@ -11,7 +11,7 @@
 <p align="justify">Systems Analyst and Developer 🖥️ | Data Scientist 🎲 | IT Governance 👔
 <br>
   
-- 🔭 Currently working at [Solutic 2010](https://solutic.com.br/)
+- 🔭 Currently working at [Kempetro](https://kempetro.com.br/)
   
 - 💼 Service Provider to [Petrobras SA] (https://petrobras.com.br)   
 
