@@ -88,8 +88,8 @@
 
 ### My Workspace
 <p align='center'>
-  <img src="https://img.shields.io/badge/archlinux-2025.03.01-%230071C5.svg?&style=for-the-badge&logo=archlinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/intel-core%20i5%2012th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows%2011%20Pro-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intel%20Core%20i5%207th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Intel-hd%20graphics-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
 </p>
