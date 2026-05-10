@@ -78,7 +78,7 @@
 <a href="https://web.dio.me/users/mppdias" target="_blank">
 <img src=https://img.shields.io/badge/Dio.me-b800e7?&style=for-the-badge&logo=dio&logoColor=white alt=Dio.me style="margin-bottom: 5px;" />
 <a href="https://hub.asimov.academy/validar-certificado/3f0246fd-ac91-4cf9-ac95-361a08fae67d" target="_blank">
-<img src=https://img.shields.io/badge/ASIMOV-ACADEMY-black)
+<img src=https://img.shields.io/badge/ASIMOV%20Academy-8F8F8F?&style=for-the-badge&logo=asimov&logoColor=white)
 <a href="https://tryhackme.com/p/mppdias" target="_blank">
 <img src=https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 </a>  
