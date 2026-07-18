@@ -91,8 +91,9 @@
 |:---:|
 
 ### My Workspace
+
+![macOS](https://img.shields.io/badge/macOS-Sequoia%2015.7.7-blue)
 <p align='center'>
-  ![macOS](https://img.shields.io)
   <img src="https://img.shields.io/badge/Intel%20Core%20i5%207th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Intel-hd%20graphics-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
