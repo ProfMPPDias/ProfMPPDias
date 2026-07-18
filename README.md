@@ -92,7 +92,7 @@
 
 ### My Workspace
 <p align='center'>
-  <img src="https://img.shields.io/badge/Windows%2011%20Pro-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <p>https://img.shields.io/badge/macOS-Sequoia%2015.7.7-blue</p>
   <img src="https://img.shields.io/badge/Intel%20Core%20i5%207th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Intel-hd%20graphics-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
