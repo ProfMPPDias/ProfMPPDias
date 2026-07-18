@@ -93,6 +93,7 @@
 ### My Workspace
 
 ![macOS](https://img.shields.io/badge/macOS-Sequoia%2015.7.7-blue)
+![macOS](https://shields.io/badge/MacOS%2017--9cf?logo=Apple&style=social)
 <p align='center'>
   <img src="https://img.shields.io/badge/Intel%20Core%20i5%207th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
