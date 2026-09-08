@@ -15,8 +15,6 @@
   
 - 💼 Service Provider to [Petrobras SA] (https://petrobras.com.br)   
 
-- 🦾 AI Chat Developer [GuruGPT] (https://gurugpt.com.br)
-
 - 💬 Feel free to ask me about productivity and organization in the world of information    
 
 - ⚡ Fun fact: Artificial intelligence is a tool, not a destination. </p>
